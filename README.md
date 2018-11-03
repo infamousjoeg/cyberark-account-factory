@@ -6,6 +6,6 @@
 
 :soon: Stay tuned for more to come!
 
-# Verification
+## Verification
 
 [![infamousjoeg Keybase PGP Verification](https://badgen.net/keybase/pgp/infamousjoeg)](https://keybase.io/infamousjoeg)
