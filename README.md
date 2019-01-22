@@ -14,11 +14,7 @@ You may register for it by following this link: [https://lp.cyberark.com/OTFL-20
 
 ### :movie_camera: Video Webinar on YouTube
 
-Will be updated once available.
-
-### :question: Q&A From Webinar
-
-Will be updated after the webinar.
+[https://www.cyberark.com/otfl-videos/]
 
 ## :robot: PowerShell Modules/Functions Used
 
